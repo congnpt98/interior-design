@@ -13,7 +13,7 @@ body {
     list-style: none;
     background-color: black;
     padding: 15px 0;
-    margin: 5px 0 5px;
+    margin: 5px 0 10px;
 }
 
 .header li {
@@ -25,5 +25,14 @@ body {
     text-decoration: none;
     color: white;
     font-size: 18px;
+}
+
+/* CAROUSEL */
+.carousel {
+    height: 550px;
+    background-image: url("../image/slider_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
