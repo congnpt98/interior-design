@@ -173,3 +173,19 @@ body {
 }
 
 /* FOOTER */
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer h2,
+.footer p {
+  width: 100%;
+  margin: 0;
+}
+
+.footer h2 {
+  font-size: 30px;
+}
